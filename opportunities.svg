@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-labelledby="title description">
+  <title id="title">فرص التدريب والعمل</title>
+  <desc id="description">مجموعة متدربات أمام لوحة توضح فرص التدريب والعمل</desc>
+  <rect width="300" height="200" rx="16" fill="#f5f0e6"/>
+  <rect x="35" y="30" width="230" height="120" rx="10" fill="#fffaf0" stroke="#557c55" stroke-width="4"/>
+  <circle cx="95" cy="78" r="22" fill="#dbe2c9"/>
+  <rect x="72" y="104" width="46" height="30" rx="10" fill="#557c55"/>
+  <circle cx="205" cy="78" r="22" fill="#eee4cf"/>
+  <rect x="182" y="104" width="46" height="30" rx="10" fill="#365044"/>
+  <rect x="128" y="58" width="44" height="8" rx="4" fill="#557c55"/>
+  <rect x="128" y="78" width="44" height="8" rx="4" fill="#d8cdb5"/>
+  <rect x="128" y="98" width="44" height="8" rx="4" fill="#eee4cf"/>
+  <text x="150" y="178" text-anchor="middle" font-family="Arial, Tahoma, sans-serif" font-size="18" fill="#365044">اكتشفي فرصك</text>
+</svg>

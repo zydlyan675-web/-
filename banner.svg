@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-labelledby="title description">
+  <title id="title">فرصتي للتدريب التعاوني</title>
+  <desc id="description">رسم توضيحي لمتدربة أمام حاسوب وفرص عمل</desc>
+  <rect width="300" height="200" rx="16" fill="#f5f0e6"/>
+  <circle cx="150" cy="78" r="38" fill="#557c55"/>
+  <rect x="112" y="116" width="76" height="54" rx="8" fill="#365044"/>
+  <rect x="54" y="46" width="70" height="46" rx="6" fill="#fffaf0"/>
+  <rect x="176" y="46" width="70" height="46" rx="6" fill="#fffaf0"/>
+  <text x="150" y="178" text-anchor="middle" font-family="Arial, Tahoma, sans-serif" font-size="20" fill="#365044">فرصتي</text>
+</svg>
